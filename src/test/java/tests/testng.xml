@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing sample Booking APIs with rest assured using cucumber framework">
+    <test name="Regression">
+        <classes>
+            <class name="tests.CreateBookingWithPojo"></class>
+            <class name="tests.GetBookingDetailsUsingPojo"></class>
+            <class name="tests.createUser"></class>
+        </classes>
+    </test>
+</suite>

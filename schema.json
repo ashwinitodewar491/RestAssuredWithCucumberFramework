@@ -1,0 +1,8 @@
+{
+  "name": {
+    "type": "String"
+  },
+  "job": {
+    "type": "integer"
+  }
+}

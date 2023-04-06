@@ -1,0 +1,6 @@
+resources/BaseClass.class
+resources/pojo/CreateBookingRequest.class
+resources/pojo/BookingdatesResponse.class
+resources/pojo/Booking.class
+resources/pojo/CreateBookingResponse.class
+resources/pojo/Bookingdates.class
